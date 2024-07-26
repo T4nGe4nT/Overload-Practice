@@ -1,2 +1,2 @@
 # Overload-Practice
-Made for CTAC
+Each class has its own main! Animals main is just main
